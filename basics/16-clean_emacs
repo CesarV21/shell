@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *~ shell/basics
+rm *~ ./
