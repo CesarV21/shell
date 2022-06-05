@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l shell/permissions
+ls -l permissions
