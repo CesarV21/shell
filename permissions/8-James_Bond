@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod ug-rwx
+#!bin/bash
+chmod ug-rwx o+rwx
