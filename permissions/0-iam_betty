@@ -1,2 +1,2 @@
 #!/bin/bash
-su -rw------- 1 betty
+sudo -rw------- 1 betty
