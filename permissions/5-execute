@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxr--r-- shell/permissions
+chmod u+x "hello"
