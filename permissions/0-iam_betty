@@ -1,2 +1,2 @@
 #!/Bin--/bash
-chmod 600 0-iam_betty betty
+chmod -rw------- 1 betty
