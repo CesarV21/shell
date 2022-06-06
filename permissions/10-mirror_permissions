@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello ohlle rw- rw- r--
+chgrp hello rw- rw- r--
