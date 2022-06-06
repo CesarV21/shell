@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 154 hello
+chmod --reference=ollhe hello
