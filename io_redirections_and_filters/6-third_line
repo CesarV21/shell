@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " head -n "
+echo " cat -n "
