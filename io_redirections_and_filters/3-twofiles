@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | sort < /etc/passwd > < /etc/hosts > < 3-twofiles >
+echo  | less  /etc/passwd; less /etc/hosts
