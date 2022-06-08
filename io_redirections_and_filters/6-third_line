@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "cat -n3"
+echo | less iacta | head -n3 iacta | tail -n1
