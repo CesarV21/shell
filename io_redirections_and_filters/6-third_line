@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  grep -n3 etc/iacta
+echo | grep -n3 etc/iacta
