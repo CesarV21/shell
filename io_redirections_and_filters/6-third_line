@@ -1,2 +1,0 @@
-#!/bin/bash
-echo| less iacta | head -n3 iacta | tail -n1
