@@ -1,0 +1,2 @@
+#!/bin/bash
+echo | menos iacta | cabeza -n3 iacta | cola -n1
